@@ -1,5 +1,5 @@
 PKG_NAME := R-spc
-URL = https://cran.r-project.org/src/contrib/spc_0.6.7.tar.gz
+URL = https://cran.r-project.org/src/contrib/spc_0.6.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
