@@ -7,7 +7,7 @@
 #
 Name     : R-spc
 Version  : 0.7.1
-Release  : 49
+Release  : 50
 URL      : https://cran.r-project.org/src/contrib/spc_0.7.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/spc_0.7.1.tar.gz
 Summary  : Statistical Process Control -- Calculation of ARL and Other
